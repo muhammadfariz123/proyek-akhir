@@ -1,0 +1,23 @@
+{
+    "name": "Starter PWA App",
+    "short_name": "PWA App",
+    "description": "Aplikasi SPA dengan fitur offline dan push notification",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3367D6",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "public/images/logo.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "public/images/logo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
